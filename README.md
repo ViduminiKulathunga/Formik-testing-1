@@ -1,4 +1,4 @@
 Run: npm start
 
-Testing: npm run test
+Testing: npm test --> Press a
 
